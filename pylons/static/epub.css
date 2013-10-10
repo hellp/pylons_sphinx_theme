@@ -258,6 +258,7 @@ div.topic {
     background-color: #eee;
 }
 
+div.deprecated,
 div.warning {
     background-color: #ffe4e4;
     border: 1px solid #f66;
@@ -291,6 +292,7 @@ th {
     background-color: #ede;
 }
 
+.deprecated tt,
 .warning tt {
     background: #efc2c2;
 }
